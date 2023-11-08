@@ -11,14 +11,30 @@ This is a simple weather website that allows users to search for the current wea
 
 ## Demo
 
-You can check out a live demo of the Weather Website [here](#) (insert your live demo link here).
+You can check out a live demo of the Weather Website 
 
+## Technologies Used
 
-## Getting Started
+- HTML
+- CSS
+- JavaScript
+- OpenWeatherMap API
 
-Follow these steps to set up the project locally:
+## License
 
-1. Clone this repository:
+This project is licensed under the MIT License.
+
+## Acknowledgments
+
+- Weather data provided by OpenWeatherMap.
+- Background image from Unsplash.
+
+## Contributors
+
+Bura Rithvik Kumar - bura.rithvik@email.com
+
+## Clone this repository:
 
    ```bash
-   git clone https://github.com/rithvik4/Weather-App-using-API.git
+   git clone -  https://github.com/rithvik4/Weather-App-using-API
+
